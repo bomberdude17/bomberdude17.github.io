@@ -1,0 +1,52 @@
+# Build Settings
+markdown: kramdown
+plugins:
+- jekyll-feed
+
+title: Lucas Brito
+description: >- 
+  Welcome to my personal portfolio. I'm a Computer Programer passionate about video games.
+author: Lucas Brito
+
+# Site settings
+baseurl: ""
+url: "https://bomberdude17.github.io/"
+
+# Theme and appearance
+theme: minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation links (optional - requires customizing minima theme)
+minima:
+  social_links:
+    github: yourusername
+    linkedin: your-linkedin-profile
+    twitter: yourtwitterhandle
+
+# Exclude these from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Defaults (optional - can set layout defaults)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
