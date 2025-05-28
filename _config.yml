@@ -22,7 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation links (optional - requires customizing minima theme)
+# Navigation links
 minima:
   social_links:
     github: yourusername
