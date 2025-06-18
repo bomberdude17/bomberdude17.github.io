@@ -5,7 +5,7 @@ plugins:
 
 title: Lucas Brito
 description: >- 
-  Welcome to my personal portfolio. I'm a Computer Programer passionate about video games.
+  Welcome to my personal portfolio. I'm a Computer Programer passionate about video game! I am currently 29 years old and am in search of a permanent job.
 author: Lucas Brito
 
 # Site settings
@@ -14,29 +14,44 @@ url: "https://bomberdude17.github.io/"
 
 # Theme and appearance
 theme: minima
+header_pages:
+- about.md
+- resume.md
+- work-experience.md
+- references.md
 
-# Build settings
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+
+minima:
+social_links:
+github: Bomberdude17
+linkedin: www.linkedin.com/in/lucas-brito-bomberdude17
+twitter: @bomberdude17
+
+#Build settings
 markdown: kramdown
 highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation links
+#Navigation links
 minima:
   social_links:
     github: yourusername
     linkedin: your-linkedin-profile
     twitter: yourtwitterhandle
 
-# Exclude these from build
+#Exclude these from build
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor
 
-# Defaults
+#Defaults
 defaults:
   -
     scope:
