@@ -7,8 +7,8 @@ permalink: /resume/
 ### Downloadable Resume
 [Click here to download my resume in a word document (Word)](/assets/resume.docx)
 
-**Name:** Lucas L Brito
-**Email:** Lucas.l.d.brito@gmail.com
-**Current Location:** Fargo, ND or Minneapolis, MN
-**Relocation Availability:** Available on Demand
-**Education:** Bachelors in Universal Studies from Minnesota State University Moorhead MSUM
+**Name:** Lucas L Brito <br>
+**Email:** Lucas.l.d.brito@gmail.com <br>
+**Current Location:** Fargo, ND or Minneapolis, MN <br>
+**Relocation Availability:** Available on Demand <br>
+**Education:** Bachelors in Universal Studies from Minnesota State University Moorhead MSUM <br>
