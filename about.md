@@ -7,9 +7,20 @@ permalink: /about/
   <img src="/haha.jpg" alt="Lucas Brito" width="100"/>
 </p>
 
-Hi, I'm Your Name!  
-I'm a [your profession or major] with a passion for [your interests or skills].
+Hi, I'm Lucas Brito, a recent graduate of Minnesota State University Moorhead (MSUM) with a Bachelor's degree in Universal Studies and a minor in Economics.
 
-I love working on projects that involve complexe problem solving and anything related to computers as those challenges always delight me to overcome, and I'm always looking for new challenges.
+I'm a multilingual, tech-savvy computer scientist with hands-on experience in data analysis, education, and quality assurance for AAA games.
+I’m passionate about solving complex problems and thrive on challenges that require both creativity and technical skill.
+Whether it’s coding, collaborating on a team, or adapting to fast-paced environments, I bring a mix of curiosity, persistence, and a strong analytical mindset.
+
+I’m fluent in English, Portuguese, and Spanish, and conversational in German and French.
+I enjoy working on projects involving automation, game development, and data-driven decision-making — anything that lets me dive into systems and make them better.
+
+Outside of work, I enjoy rock climbing, video games, and soccer. I'm also a fan of movies, comic books, and storytelling in all its forms.
+Some of my favorite games include Borderlands, Roller Coaster Tycoon, Left 4 Dead 2, and more recently, Repo Company–style titles.
+
+When faced with difficult problems, I’m either the person who bashes their head against the wall until the solution clicks…
+or I know when to pivot and find another way forward. I’m not afraid to be the "last man standing" on a project,
+and I take pride in seeing things through — even when the odds are stacked high.
 
 Feel free to explore my site to learn more about me!
