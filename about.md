@@ -3,9 +3,6 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-<p align="center">
-  <img src="/haha.jpg" alt="Lucas Brito" width="100"/>
-</p>
 
 Hi, I'm Lucas Brito, a recent graduate of Minnesota State University Moorhead (MSUM) with a Bachelor's degree in Universal Studies and a minor in Economics.
 
