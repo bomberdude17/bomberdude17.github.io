@@ -6,12 +6,12 @@ permalink: /references/
 
 ### References
 
-Available upon request.
+Available upon request or inside of my resume
 
 Alternatively, here are a few written testimonials from former colleagues and professors:
 
-#### Dr. Jane Smith – Professor at XYZ University  
-_"Lucas is a dedicated and thoughtful professional who brings creativity to every project."_
+#### Dr. Julia Poplin – Head of Department of Education at MSUM 
+_"Lucas is a dedicated and thoughtful professional who brings energy and excitement to any project he is involved in."_
 
-#### John Doe – Manager at Company Inc.  
+#### Darrin Grubb – Professor of Economics at MSUM.  
 _"Great communicator and fast learner. A valuable asset to any team."_
