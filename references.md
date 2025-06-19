@@ -4,7 +4,7 @@ title: References
 permalink: /references/
 ---
 <p align="center">
-  <img src="/thank-you.jpg" alt="Lucas Brito" width="100"/>
+  <img src="/thank-you.jpg" alt="Lucas Brito" width="1000"/>
 </p>
 
 ### References
