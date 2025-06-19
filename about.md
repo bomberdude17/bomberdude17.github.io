@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 <p align="center">
-  <img src="/haha.jpg" alt="Lucas Brito" width="1000"/>
+  <img src="/haha.jpg" alt="Lucas Brito" width="100"/>
 </p>
 
 Hi, I'm Your Name!  
