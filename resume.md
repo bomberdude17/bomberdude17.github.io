@@ -12,3 +12,6 @@ permalink: /resume/
 **Current Location:** Fargo, ND or Minneapolis, MN <br>
 **Relocation Availability:** Available on Demand <br>
 **Education:** Bachelors in Universal Studies from Minnesota State University Moorhead MSUM <br>
+<p align="center">
+  <img src="/profile.jpg" alt="Lucas Brito" width="200"/>
+</p>
