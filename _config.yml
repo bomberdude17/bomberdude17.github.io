@@ -45,7 +45,3 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-
-<p align="center">
-  <img src="/haha.jpg" alt="Lucas Brito" width="1000"/>
-</p>
