@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 ### Downloadable Resume
-[Click here then download my resume in a word format. To do so, click the "view raw" icon and a word document should download. (.docx)](/resume.docx)
+[Click here then download and view my resume in a pdf format.](/resume.pdf)
 
 **Name:** Lucas L Brito <br>
 **Email:** Lucas.l.d.brito@gmail.com <br>
