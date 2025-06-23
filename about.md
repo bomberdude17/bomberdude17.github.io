@@ -1,3 +1,4 @@
+<div style="border: 8px double #4CAF50; padding: 20px; margin: 20px; border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 ---
 layout: page
 title: About Me
