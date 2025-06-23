@@ -13,5 +13,5 @@ permalink: /resume/
 **Relocation Availability:** Available on Demand <br>
 **Education:** Bachelors in Universal Studies from Minnesota State University Moorhead MSUM <br>
 <p align="center">
-  <img src="/IMG_2220.HEIC" alt="Lucas Brito" width="400" height="400" style="object-fit: cover; border-radius: 25%; overflow: hidden;">
+  <img src="/IMG_3057.HEIC" alt="Lucas Brito" width="400" height="400" style="object-fit: cover; border-radius: 25%; overflow: hidden;">
 </p>
