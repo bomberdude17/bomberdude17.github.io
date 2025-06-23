@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-<div style="border: 8px double #4CAF50; padding: 20px; margin: 20px; border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+<div style="border: 8px double #00B4D8; padding: 20px; margin: 20px; border-radius: 15px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 
 <p align="center">
   <img src="/resumeimageofme.png" alt="Lucas Brito"
