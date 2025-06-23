@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 <p align="center">
-  <img src="/resume imageofme.png" alt="Lucas Brito"
+  <img src="/resumeimageofme.png" alt="Lucas Brito"
        style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid #ccc;" />
 </p>
 
