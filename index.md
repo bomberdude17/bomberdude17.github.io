@@ -10,4 +10,4 @@ Feel free to explore my resume, work experience, and references using the naviga
 <p align="center">
   <img src="/nogamenolife.jpg" alt="Lucas Brito" width="2000" style="border-radius: 50%;"/>
 </p>
-[Connect with me on LinkedIn](www.linkedin.com/in/lucas-brito-bomberdude17)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/lucas-brito-bomberdude17)
